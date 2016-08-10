@@ -1,0 +1,6 @@
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\obj\Debug\Bela.csprojResolveAssemblyReference.cache
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\obj\Debug\Bella.exe
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\obj\Debug\Bella.pdb
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.exe.config
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.exe
+C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.pdb
