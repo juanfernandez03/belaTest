@@ -4,3 +4,6 @@ C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\obj\Debug\
 C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.exe.config
 C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.exe
 C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\Bella.pdb
+C:\Users\pfernandez\Documents\belaTest\Bella\bin\Debug\Bella.exe.config
+C:\Users\pfernandez\Documents\belaTest\Bella\obj\Debug\Bella.exe
+C:\Users\pfernandez\Documents\belaTest\Bella\obj\Debug\Bella.pdb
