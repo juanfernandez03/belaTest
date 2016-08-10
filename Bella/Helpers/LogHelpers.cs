@@ -10,7 +10,7 @@ namespace Bela.Helpers
 {
     public class LogHelpers
     {
-        
+       
       static string path = Application.ExecutablePath.Replace(Application.ExecutablePath.Split('\\')[Application.ExecutablePath.Split('\\').Length - 1], "Log.txt");
       static string fileName;
       static string timeAudit = DateTime.Now.ToString();
@@ -28,7 +28,22 @@ namespace Bela.Helpers
             //Write in console
             WriteConsole(message, level);
             //Write in DB
+            WriteDB(message, level);
+            
 
+        }
+
+        private static void WriteDB(string message, Helpers.Enumerations.LevelAudit level)
+        {
+            var conn = Bella.Helpers.DBConnect.Data.Connection;
+            System.Data.SqlClient.SqlCommand command = new System.Data.SqlClient.SqlCommand();
+            command.Connection = conn;
+            command.CommandText = "INSERT INTO Log  VALUES(@param2,@param3,@param4)";
+            command.Parameters.AddWithValue("@param2", message);
+            command.Parameters.AddWithValue("@param3", DateTime.Now);
+            command.Parameters.AddWithValue("@param4", level);
+
+            command.ExecuteNonQuery();
         }
 
         private static void WriteFile(string message, Helpers.Enumerations.LevelAudit level)
