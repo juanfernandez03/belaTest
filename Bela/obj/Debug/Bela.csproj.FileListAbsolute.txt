@@ -7,3 +7,9 @@ C:\Users\pfernandez\documents\visual studio 2013\Projects\Bella\Bella\bin\Debug\
 C:\Users\pfernandez\Documents\belaTest\Bella\bin\Debug\Bella.exe.config
 C:\Users\pfernandez\Documents\belaTest\Bella\obj\Debug\Bella.exe
 C:\Users\pfernandez\Documents\belaTest\Bella\obj\Debug\Bella.pdb
+C:\Users\juan\Documents\belaTest\Bella\bin\Debug\Bella.exe.config
+C:\Users\juan\Documents\belaTest\Bella\bin\Debug\Bella.exe
+C:\Users\juan\Documents\belaTest\Bella\bin\Debug\Bella.pdb
+C:\Users\juan\Documents\belaTest\Bella\obj\Debug\Bela.csprojResolveAssemblyReference.cache
+C:\Users\juan\Documents\belaTest\Bella\obj\Debug\Bella.exe
+C:\Users\juan\Documents\belaTest\Bella\obj\Debug\Bella.pdb
