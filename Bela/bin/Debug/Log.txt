@@ -6,3 +6,8 @@
 10/08/2016 19:38:20 : Critical error
 10/08/2016 19:38:20 : Warning
 10/08/2016 19:38:20 : Message
+11/08/2016 11:48:05 a.m. : Critical error
+11/08/2016 12:26:15 p.m. : Critical error
+11/08/2016 12:26:38 p.m. : Critical error
+11/08/2016 12:26:50 p.m. : Critical error
+11/08/2016 12:27:04 p.m. : Critical error

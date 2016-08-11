@@ -54,7 +54,7 @@
     <Compile Include="UnitTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Bella\Bela.csproj">
+    <ProjectReference Include="..\Bela\Bela.csproj">
       <Project>{48a6a8aa-2b1c-4b05-aa76-d7bb568bdd3c}</Project>
       <Name>Bela</Name>
     </ProjectReference>
