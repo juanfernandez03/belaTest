@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="Helpers\Enumerations.cs" />
     <Compile Include="Helpers\LogHelpers.cs" />
-    <Compile Include="JobLogger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
